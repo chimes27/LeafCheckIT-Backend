@@ -4,9 +4,9 @@ To use this code, you need to install the following application:
 1. Python 2.7
 2. OpenCV 2.4
 3. Numpy
-4. Scikit-learn
+4. Scipy 0.18
 
-The precompiled version of OpenCV, Numpy and Scipy is available in the installer folder of this repository.
+The precompiled version of OpenCV and Numpy are available in the installer folder of this repository. Unfortunately, the Scipy could not be uploaded here at Github due file size constraints. Message me for a copy of the file or email me at: jonilyn.tejada@gmail.com.
 
 Steps in using this program:
 1. Run the createfeatures.py using the command prompt (windows) or terminal for Linux users:
